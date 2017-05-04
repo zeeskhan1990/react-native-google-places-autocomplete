@@ -1,6 +1,11 @@
 # react-native-google-places-autocomplete
 Customizable Google Places autocomplete component for iOS and Android React-Native apps
 
+### Forked changes introduced (WIP)
+* Asking for permission in android itself
+* Closing autocomplete on click on an external element
+* Styling changes
+
 ### Changelog
 - 1.2.12 : Fixed render description + docs.
 - 1.2.11 : Fixed current location result `onPress` event.
